@@ -8,3 +8,7 @@
 /factory/factory/bin/Debug/netcoreapp3.1
 /factory/factory/obj/Debug/netcoreapp3.1
 /factory/factory/obj
+/singleton/singleton/.vs/singleton/v16
+/singleton/singleton/singleton/bin/Debug/netcoreapp3.1
+/singleton/singleton/singleton/obj/Debug/netcoreapp3.1
+/singleton/singleton/singleton/obj
