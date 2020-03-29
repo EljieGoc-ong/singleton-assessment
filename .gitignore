@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/factory/.vs/factory/v16/Server/sqlite3
+/factory/.vs/factory/DesignTimeBuild
+/factory/.vs/factory/v16
+/factory/factory/bin/Debug/netcoreapp3.1
+/factory/factory/obj/Debug/netcoreapp3.1
+/factory/factory/obj
